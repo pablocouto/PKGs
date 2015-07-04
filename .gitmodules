@@ -1,0 +1,3 @@
+[submodule "taskd-git"]
+	path = taskd-git
+	url = ssh://aur@aur4.archlinux.org/taskd-git.git
